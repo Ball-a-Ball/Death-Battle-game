@@ -1,6 +1,5 @@
 import pygame
 import random
-from button import Button
 
 clock = pygame.time.Clock()
 health = 100
